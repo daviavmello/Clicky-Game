@@ -2,24 +2,84 @@
     {
         "id": 1,
         "name": "Eleven",
-        "image": "https://specials-images.forbesimg.com/imageserve/5d2795864c687b00085c6b98/960x0.jpg?fit=scale"
+        "image": "https://specials-images.forbesimg.com/imageserve/5d2795864c687b00085c6b98/960x0.jpg?fit=scale",
+        "clickStatus": false
     },
 
     {
         "id": 2,
         "name": "Mike",
-        "image": "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/87e637645a3ab8f4fcfaca984ada394f.png&quality=70&width=720"
+        "image": "https://images.ladbible.com/thumbnail?type=jpeg&url=http://beta.ems.ladbiblegroup.com/s3/content/87e637645a3ab8f4fcfaca984ada394f.png&quality=70&width=720",
+        "clickStatus": false
     },
 
     {
         "id": 3,
         "name": "Will",
-        "image": "https://www.tvinsider.com/wp-content/uploads/2019/07/Stranger_Things_S03E03_45m7s64904f_R.jpg"
+        "image": "https://peopledotcom.files.wordpress.com/2019/07/stranger_things_s03e03_45m7s64904f_r-2.jpg",
+        "clickStatus": false
     },
 
     {
         "id": 4,
         "name": "Lucas",
-        "image": "https://tvguide1.cbsistatic.com/i/2017/11/03/ee3cd708-090c-480f-a400-725594b84258/51e6b0087f4efc52f58267dc82a350a2/171103-news-stranger-things-caleb-mclaughin.jpg"
+        "image": "https://tvguide1.cbsistatic.com/i/2017/11/03/ee3cd708-090c-480f-a400-725594b84258/51e6b0087f4efc52f58267dc82a350a2/171103-news-stranger-things-caleb-mclaughin.jpg",
+        "clickStatus": false
+    },
+
+    {
+        "id": 5,
+        "name": "Billy",
+        "image": "https://ewedit.files.wordpress.com/2019/07/stranger_things_s03e03_46m24s66769f_r.jpg?w=3000&h=1600",
+        "clickStatus": false
+    },
+
+    {
+        "id": 6,
+        "name": "Steve",
+        "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/8/8b/ST3_Steve_Harrington_portrait.jpg/revision/latest/scale-to-width-down/2000?cb=20190321055351",
+        "clickStatus": false
+    },
+
+    {
+        "id": 7,
+        "name": "Dustin",
+        "image": "https://d.newsweek.com/en/full/704701/11-7-stranger-things-dustin-sweatshirt.jpg",
+        "clickStatus": false
+    },
+
+    {
+        "id": 8,
+        "name": "Joyce",
+        "image": "https://fsmedia.imgix.net/18/1e/17/f1/b635/4c88/881d/0f665b93f3e4/joyce-byers-in-stranger-things.jpeg?rect=554%2C0%2C1367%2C1024&auto=format%2Ccompress&dpr=2&w=650",
+        "clickStatus": false
+    },
+
+    {
+        "id": 9,
+        "name": "Hopper",
+        "image": "https://cnet3.cbsistatic.com/img/ptAKmWVOhlY_H20LigJCzweh-ks=/1200x675/2019/06/06/5f64ff60-0de2-4118-9085-c22550a21475/h5-promo-stills-022519-0053-r.jpg",
+        "clickStatus": false
+    },
+
+    {
+        "id": 10,
+        "name": "Nancy",
+        "image": "https://www.poynter.org/wp-content/uploads/2019/07/nancy-wheeler.jpg",
+        "clickStatus": false
+    },
+
+    {
+        "id": 11,
+        "name": "Jonathan",
+        "image": "https://static.insider.com/image/5d1d29c421a861158427d083.jpg",
+        "clickStatus": false
+    },
+
+    {
+        "id": 12,
+        "name": "Max",
+        "image": "https://vignette.wikia.nocookie.net/strangerthings8338/images/4/41/6496D145-7DEC-4C23-BB62-0059C0A1A72E.jpeg/revision/latest/scale-to-width-down/2000?cb=20190709215216",
+        "clickStatus": false
     }
 ]

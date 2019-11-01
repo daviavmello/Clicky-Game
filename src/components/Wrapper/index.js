@@ -3,8 +3,8 @@ import './style.css';
 
 function Wrapper(props) {
     return (
-    <h1 className="wrapper">{props.children}
-    </h1>
+    <div className="container-fluid wrapper">{props.children}
+    </div>
     );
 }
 
